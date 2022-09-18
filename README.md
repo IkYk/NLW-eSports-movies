@@ -1,8 +1,8 @@
-# NLW eSports - Explorer Trail
+# NLW eSports - Explorer Trail(Skin Movies)
 
 ![preview](./.github/preview.png)
 
-Project builded on Rocketseat NLW event
+Project modded to Movies
 
 [Click Here To Acess](https://ikyk.github.io/NLW-eSports/)
 
